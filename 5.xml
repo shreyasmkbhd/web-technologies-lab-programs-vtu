@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href='RV5.css'?>
+<cse>
+	<heading>Student Details</heading>
+		<std1>
+			<usn>USN - 1AY17CS077</usn>
+			<name>Name - Ravikiran R.V</name>
+			<college>College - AIT</college>
+			<branch>Branch - CSE</branch>
+			<YofJ>Year_Of_Joining - 2017</YofJ>
+			<mail_ID>E-Mail - ravikiran.17.becs@acharya.ac.in</mail_ID>
+		</std1>
+		<std2>
+			<usn>USN - 1AY17CS071</usn>
+			<name>Name - Rahul Chopra</name>
+			<college>College - AIT</college>
+			<branch>Branch - CSE</branch>
+			<YofJ>Year_of_Joining - 2017</YofJ>
+			<mail_ID>E-Mail - rahulc.17.becs@acharya.ac.in</mail_ID>
+		</std2>
+		<std3>
+			<usn>USN - 1AY17CS051</usn>
+			<name>Name - Megha Singh</name>
+			<college>College - AIT</college>
+			<branch>Branch - CSE</branch>
+			<YofJ>Year_of_Joining - 2017</YofJ>
+			<mail_ID>E-Mail - megha.17.becs@acharya.ac.in</mail_ID>
+		</std3>
+		<std4>
+			<usn>USN - 1AY17CS091</usn>
+			<name>Name - Shreet Memani</name>
+			<college>College - AIT</college>
+			<branch>Branch - CSE</branch>
+			<YofJ>Year_of_Joining - 2017</YofJ>
+			<mail_ID>E-Mail - shreet.17.becs@acharya.ac.in</mail_ID>
+		</std4>
+</cse>
+
+
+
